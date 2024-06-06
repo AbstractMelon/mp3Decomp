@@ -1,6 +1,6 @@
 # mp3Decomp
 
-
+SRCV - DEFAULT - 32!
 PROCESSOR:
 ATJ2127
 
